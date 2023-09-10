@@ -1,3 +1,4 @@
+![logo](https://github.com/rahulgupta888/rahulgupta888/blob/main/Banner2.gif)
 <h1 align="center">Hi there👋, I'm Rahul Gupta</h1>
 <h3 align="center">Passionate about Technology and Problem solving.</h3>
 
